@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: GitHub Discussions
+    url: /discussions
+    about: Ask questions and discuss ideas with the community
+  - name: Security Policy
+    url: /security/policy
+    about: Report security vulnerabilities privately (critical issues only)
