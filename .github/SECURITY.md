@@ -15,7 +15,7 @@ We take the security of our project seriously. If you have discovered a security
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Instead, please report them via email to [INSERT SECURITY EMAIL]. You should receive a response within 48 hours. If for some reason you do not, please follow up via email to ensure we received your original message.
+Instead, please report them via email to [guillou.gabriel@gmail.com]. You should receive a response within 48 hours. If for some reason you do not, please follow up via email to ensure we received your original message.
 
 Please include the following information in your report:
 
